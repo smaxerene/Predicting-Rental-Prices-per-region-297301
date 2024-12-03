@@ -2,7 +2,8 @@
 
 Overview:
 
-Delivering accurate prediction of rental prices per region in New Zealand based on the relationship between rental prices to crime rates throughout time from the 1980s to 2020s using different ML models.
+Deliver accurate prediction of rental prices per region in New Zealand based on the relationship between rental prices and crime rates from the 1980s to the 2020s using different ML models.
+
 
 Group Members:
 - Samantha Quilat
